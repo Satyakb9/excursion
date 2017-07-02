@@ -6,12 +6,33 @@ body {
 
 h1 {
   font-size: 50px;
-  color: white;
   font-weight: normal;
-  text-align: center;
 }
 
-h4 {
-  font-size: 16px;
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 21px;
+  font-weight: normal;
+}
+
+a {
   color: Aquamarine;
+  font-size: 16px;
+  text-decoration-color: Aquamarine;
+}
+
+#copyright {
+  text-align: right;
+}
+
+.gray {
+  color: gray;
+}
+
+.white {
+  color: white;
 }
